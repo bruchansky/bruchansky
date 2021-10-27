@@ -1,7 +1,7 @@
 - Hi, I’m @bruchansky
 - Practitioner of digital art and innovation for more than 20 years
-- Author of the Digressive Society book
 - Founding Member of the Plural/Pluriel Collective: https://plural.world
+- Author of the Digressive Society book
 - Bio: https://bruchansky.name
 
 
