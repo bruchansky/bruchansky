@@ -1,7 +1,6 @@
 - Hi, I’m @bruchansky
-- Belgian Digital Artist & Philosophical Author
-- At the Intersection of Geek and Countercultures
-- Into Digital Art and Innovation for more than 20 Years
+- Practitioner of digital art and innovation for more than 20 years
+- Author of the Digressive Society book
 - Founding Member of the Plural/Pluriel Collective: https://plural.world
 - Bio: https://bruchansky.name
 
