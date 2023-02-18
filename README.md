@@ -1,10 +1,7 @@
 - Hi, I’m @bruchansky
 - Belgian engineer turned digital artist. 
 - Bio: https://bruchansky.name
-
-
-- VR projects: https://bruchansky.name/immersions | Instagram: https://www.instagram.com/bruchansky/ | TikTok: https://www.tiktok.com/@bruchansky | Youtube: https://www.youtube.com/@bruchansky/
-
+- VR projects: https://bruchansky.name/immersions 
 
 
 <!---
