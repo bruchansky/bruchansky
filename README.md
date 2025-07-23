@@ -1,8 +1,7 @@
-- Hi, I’m @bruchansky
-- Belgian engineer turned digital artist. 
-- Bio: https://bruchansky.name
-- Latest digressions: https://bruchansky.name/digressions
-- VR projects: https://bruchansky.name/immersions 
+Hi, I’m @bruchansky
+Digital artist, author and technologist
+
+Publications, videos, virtual worlds and installations available at https://bruchansky.xyz
 
 
 <!---
