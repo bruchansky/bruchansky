@@ -1,6 +1,3 @@
-Hi, I’m @bruchansky
-Digital artist, author and technologist
-
 Publications, videos, virtual worlds and installations available at https://bruchansky.xyz
 
 
