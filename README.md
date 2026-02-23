@@ -1,4 +1,5 @@
-Publications, videos, virtual worlds and installations available at https://bruchansky.xyz
+Publications, videos, virtual worlds and installations available at https://bruchansky.xyz.
+
 Coding and prototyping as a form of civic, artistic, and conceptual inquiry.
 
 
